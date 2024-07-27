@@ -10,7 +10,7 @@
             Console.WriteLine("开发者1提交测试3");
 
             Console.WriteLine("开发者2新建分支");
-            Console.WriteLine("开发者2修改测试3");
+            Console.WriteLine("开发者1修改测试3");
         }
     }
 }
